@@ -31,7 +31,7 @@ def get_special_paths(dirname):
 def copy_to(path_list, dest_dir):
     if not os.path.isdir(dest_dir):
         os.makedirs(dest_dir)
-    for path in path_list:
+    for path in path_list: 
         shutil.copy(path, dest_dir)
     return    
     """given a list of file paths, copies those files 
