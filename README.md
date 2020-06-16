@@ -70,6 +70,16 @@ This assignment contains a `tests` folder that will test your code in several di
  To view the detailed results of the test output, select the OUTPUT tab in your integrated terminal window, and then choose "Python Test Log" in the dropdown.
  ![Test Output](img/vscode-output.png)
 
+
+
+
+
+
+
+
+
+ 
+
 ## PR (Pull Request) Workflow for this assignment
 1. *Fork* this repository into your own personal GitHub account.
 2. *Clone* your own repo to your local development machine.
